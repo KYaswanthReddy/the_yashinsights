@@ -22,3 +22,14 @@ Welcome to my portfolio repository! This project is being architected and built 
 ### Author
 **K. Yaswanth Reddy**  
 - GitHub: [@KYaswanthReddy](https://github.com/KYaswanthReddy)
+
+
+## 📚 Architecture Documentation Index
+
+- [System Overview](docs/architecture/system-overview.md)
+- [Component Hierarchy](docs/architecture/component-hierarchy.md)
+- [Data Flow & State Management](docs/architecture/data-flow.md)
+- [API Contracts](docs/api/contracts.md)
+- [Caching & Performance Strategy](docs/architecture/caching-and-performance.md)
+- [Security Guidelines](docs/architecture/security.md)
+- [Deployment & Infrastructure](docs/deployment/infrastructure.md)
