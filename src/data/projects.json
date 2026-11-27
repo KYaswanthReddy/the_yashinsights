@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Scalable Portfolio Engine",
+    "slug": "scalable-portfolio",
+    "summary": "High-performance portfolio platform built with clean system architecture.",
+    "architectureDescription": "Decoupled edge architecture utilizing global caching, optimistic UI, and strict TypeScript domain models.",
+    "tags": [
+      { "name": "TypeScript", "category": "frontend" },
+      { "name": "System Architecture", "category": "backend" },
+      { "name": "Edge Caching", "category": "infrastructure" }
+    ],
+    "metrics": {
+      "throughput": "10k req/min",
+      "latency": "< 45ms"
+    },
+    "githubUrl": "https://github.com/KYaswanthReddy/the_yashinsights",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Distributed Event Pipeline",
+    "slug": "event-pipeline",
+    "summary": "Real-time event processing cluster supporting high-throughput stream ingestion.",
+    "architectureDescription": "Kafka-backed partitioned consumer group topology with idempotency guards and dead-letter queues.",
+    "tags": [
+      { "name": "Kafka", "category": "infrastructure" },
+      { "name": "Go", "category": "backend" },
+      { "name": "PostgreSQL", "category": "database" }
+    ],
+    "metrics": {
+      "throughput": "500k events/sec",
+      "latency": "12ms"
+    },
+    "featured": true
+  }
+]
